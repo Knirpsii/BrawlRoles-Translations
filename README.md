@@ -8,5 +8,6 @@ This is the Translations Repository for the Brawl Roles Discord Bot
 2. Edit your Files and push them to your forked Repository
 3. Create a pull request
 
-###Need help?
+
+###Need help or want to add another Language?
 we are always happy to help you. Please contact us on [Discord](https://discord.gg/PcvxmGCdEV)
