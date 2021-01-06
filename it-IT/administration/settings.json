@@ -1,0 +1,23 @@
+{
+  "DESCRIPTION": "Shows the settings.",
+  "USAGE": "settings",
+  "EXAMPLES": "{{prefix}}settings",
+  "HEADINGS": {
+    "MAPED_EVENT_ROLES": "<@&{{role}}> **-** {{event}} **-** {{wins}} wins.",
+    "MAPED_DEFAULT_ROLES": "<@&{{role}}> **-** {{event}}.",
+    "MAPED_VERIFIED_ROLES": "<@&{{role}}> **-** {{event}} **-** {{status}}.",
+    "MAPED_HIGHEST_TROPHIES_ROLES": "<@&{{role}}> **-** {{event}} **-** {{trophies}} trophies.",
+    "MAPED_CLUBS": "<@&{{role}}> **-** club `#{{tag}}` **-** `{{rank}}`",
+    "TITLE": "Settings:",
+    "PREFIX": "Prefix:",
+    "VERIFICATION_ENABLED": "Verification enabled:",
+    "VERIFICATION_CHANNEL": "Channel:",
+    "VERIFICATION_IMAGE": "With image:",
+    "VERIFICATION_NAME": "With name change:",
+    "DEFAULT": "Default role:",
+    "EVENTS": "Events:",
+    "VERIFICATION": "Verification:",
+    "HIGHESTTROPHIES": "Highesttrophies:",
+    "CLUBS": "Club roles:"
+  }
+}

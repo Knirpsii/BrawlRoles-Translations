@@ -1,0 +1,5 @@
+{
+  "DESCRIPTION": "Sends you a link to invite me.",
+  "USAGE": "invite",
+  "EXAMPLES": "{{prefix}}invite"
+}

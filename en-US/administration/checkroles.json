@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Checks all saved roles and removes deleted roles from the database.",
+  "USAGE": "checkroles",
+  "EXAMPLES": "{{prefix}}checkroles",
+  "ERR_VERIFICATION_DISABLED": "The verification isn't enabled. Please run the command `verification` first.",
+  "SUCCESS_DISABLED": "All roles checked. \n**Roles checked:** {{checkedRoles}} \n**Roles removed:** {{removedRoles}} \n\nThe verification was disabled because the verification role was deleted.",
+  "SUCCESS": "All roles checked. \n**Roles checked:** {{checkedRoles}} \n**Roles removed:** {{removedRoles}}"
+}

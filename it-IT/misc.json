@@ -1,0 +1,19 @@
+{
+  "MISSING_PERMS": "Your permission level is too low to execute that command. The command requires permission level {{requiredLevel}} (`{{requiredTitle}}`) and you are level {{userLevel}} (`{{userTitle}}`).",
+  "MISSING_PERMS_BOT": "I need the following permissions to run this command: {{permissions}}",
+  "PREFIX": "My prefix is `{{prefix}}`",
+  "CHANNEL_IGNORED": "Commands aren't allowed in {{channel}}.",
+  "EVERYONE_MENTION": "You aren't allowed to mention everyone or here in commands.",
+  "STATS_FOOTER": "[Invite](https://discordapp.com/oauth2/authorize?client_id=686123976296103945&scope=bot&permissions=2146954495) ● [Support](https://discord.gg/ucScGNU) ● [Vote](https://top.gg/bot/686123976296103945) ● [Docs](https://docs.brawlroles.mahler.link)",
+  "COMMAND_DISABLED": "This command is currently disabled.",
+  "INVALID_CHANNEL": "Please enter a valid channel.",
+  "UNKNOWN_COMMAND": "Unknown command `{{command}}`. Type `{{prefix}}help` to get the list of all the commands.",
+  "COMMAND_GUILDONLY": "This command must be run in a server.",
+  "COMMAND_CLIENT_PERMS": "I need the following permissions to perform this command: `{{perms}}`.",
+  "COMMAND_USER_PERMS" : "You don't have the necessary permissions to perform this command (`{{perms}}`).",
+  "COMMAND_NSFW": "This command can only be run in NSFW channels.",
+  "COMMAND_MOD_ONLY": "This command can only be run by Bot Moderators.",
+  "COMMAND_NO_MOD": "You are a Bot Moderator but you don't have permission to use this command in this Server, please ask the Lead Staff on my Support Server to give you permissions for this server.",
+  "COOLDOWN": "You must wait {{seconds}} to run this command again.",
+  "ERROR": "Something went wrong: `{{error}}`"
+}

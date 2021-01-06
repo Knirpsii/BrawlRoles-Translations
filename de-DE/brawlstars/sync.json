@@ -1,0 +1,10 @@
+{
+  "DESCRIPTION": "Aktualisiert alle Mitglieder. Fügt nur Clubrollen hinzu und/oder entfernt sie.",
+  "USAGE": "sync",
+  "EXAMPLES": "{{prefix}}sync",
+  "VERIFICATION_DISABLED": "Die Verifizierung ist deaktiviert. Bitte nutze den Befehl `verification` zuerst.",
+  "ALREADY_ON_GOING": "Es ist bereits eine Synchronisierung im Gange. Bitte warte, bis diese abgeschlossen ist.",
+  "MAP_ERROR_SIZE": "Es ist etwas schief gegangen. Bitte versuche es später erneut.",
+  "WARNING_TIME": "Synchronisierung aller Clubrollen. **Dies kann einige Zeit in Anspruch nehmen!**",
+  "FINISHED": "Alle Clubrollen wurden synchronisiert. \n**Erfolgreich:** {{success}} \n**Gescheitert:** {{failed}}"
+}

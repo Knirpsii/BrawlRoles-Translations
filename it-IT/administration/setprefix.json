@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Change the server prefix.",
+    "USAGE": "setprefix <newPrefix>",
+    "EXAMPLES": "{{prefix}}setprefix +",
+    "MISSING": "Please enter a prefix.",
+    "SUCCESS": "Prefix was successfully changed to `{{prefix}}`",
+    "LENGTH": "Invalid prefix, it must be between 1 and 5 characters long."
+}

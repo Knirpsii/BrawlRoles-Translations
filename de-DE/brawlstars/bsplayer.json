@@ -1,0 +1,22 @@
+{
+  "DESCRIPTION": "Zeigt die aktuellen Stats eines Brawl Stars Spielers.",
+  "USAGE": "bsplayer <spielerTag>",
+  "EXAMPLES": "{{prefix}}bsplayer #CCUQLY0",
+  "NO_PLAYER_TAG": "Es gibt keinen Brawl Stars Spieler mit dem Tag: {{tag}}",
+  "ERR_STATUS": "Es iost etwas schief gelaufen `HTTP Status Code {{status}}`",
+  "ERR_NO_TAG": "Bitte gib einen Spieler Tag ein.",
+
+  "EMBED_HEADERS": {
+    "TITLE": "{{user}} Brawl Stars Spieler Profil",
+    "USERTAG": "**Tag: **{{tag}}",
+    "USERNAME": "**Name: **{{username}}",
+    "TROPHIES": "**Trophäen: **{{trophies}}",
+    "HIGHESTTROPHIES": "**Höchste Trophäen: **{{trophies}}",
+    "EXPLEVEL": "**Exp level: **{{expLevel}}",
+    "3vs3Victories": "**3 vs 3 Gewinne: ** {{victories}}",
+    "SOLOVICTORIES": "**Solo Gewinne: ** {{victories}}",
+    "DUOVICTORIES": "**Duo Gewinne: ** {{victories}}"
+  },
+  "FOOTERCLUB": "**Club:**",
+  "FOOTER": "{{clubTag}} / {{clubName}}"
+}

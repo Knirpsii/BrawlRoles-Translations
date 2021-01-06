@@ -1,0 +1,38 @@
+{
+  "DESCRIPTION": "Fügt eine Rolle zur Verifizierung hinzu oder entfernt sie aus der Verifizierung.",
+  "USAGE": "role <hinzufügen / entfernen> <rolle> [hinzufügen / entfernen] [solo / duo / 3vs3 / verifiziert] [Siege] ",
+  "EXAMPLES": "{{prefix}}role hinzufügen @Solo3000 hinzufügen solo 3000 \n{{prefix}}role hinzufügen @Not_Verified entfernen verifiziert\n{{prefix}}role entfernen @Solo3000",
+
+  "NO_STATUS": "Bitte gib `hinzufügen` ein, um eine Rolle hinzuzufügen oder `entfernen`, um eine Rolle zu entfernen.",
+  "VERIFICATION_DISABLED": "Die Verifizierung ist deaktiviert. Bitte führe zuerst den Befehl `verification` aus.",
+  "NO_ROLE": "Bitte gib eine Rolle an.",
+  "NO_ROLE_FOUND": "Ich konnte keine Rolle finden",
+  "NO_ADD_REMOVE_FROM_MEMBER": "Bitte gib `hinzufügen` ein, wenn die Rolle hinzugefügt werden soll oder `entfernen`, wenn die Rolle von einem Mitglied entfernt werden soll.",
+  "NO_EVENT": "Bitte gib ein Event ein. \n(`Solo`, `duo` oder `3vs3`, `verifiziert` oder `höchsteTrophäen`) \n(verifiziert ist die Rolle, die jedes Mitglied erhält (entfernt))",
+  "NO_WIN": "Bitte gib die Anzahl der Siege an, die der Spieler haben muss.",
+  "ERR_WIN": "Die Anzahl Siege muss eine Zahl sein.",
+  "SUCCESS_ADD_ADD": "Die Rolle {{role}} wird dem Spieler der Brawl Stars hinzugefügt, der im Ereignis {{event}} {{wins}} hat.",
+  "SUCCESS_VERIFIED_ADD": "Jeder verifizierte Brawl Stars Spieler erhält die Rolle {{role}}.",
+  "SUCCESS_VERIFIED_REMOVE": "Die Rolle {{role}} wird dem verifizierten Brawl Stars Spieler entfernt.",
+  "ERR_HIGHEST_REMOVE": "Du kannst die Rolle nur hinzufügen, wenn das Ereignis höchsteTrophäen ist.",
+  "ERR_EVENT_REMOVE": "Du kannst eine Rolle nicht aus einem event entfernen.",
+  "SUCCESS_ADD_HIGHEST": "Die Rolle {{role}} wird dem Brawl Stars-Spieler mit den höchsten Trophäen {{trophies}} oder mehr hinzugefügt.",
+  "ERR_DEFAULT_ROLE": "Du kannst die Standardverifizierungsrolle nicht entfernen.",
+  "ROLE_NOT_SAVED": "Die Rolle {{role}} ist nicht in der Datenbank gespeichert.",
+
+  "ROLE_ALREADY_IN_USE": "Die Rolle {{role}} ist bereits in Verwendung.",
+  "SUCCESS_REMOVED": "Die Rolle {{role}} wurde erfolgreich als verification Rolle entfernt.",
+
+  "BRAWL_STARS": {
+    "SOLO": "Solo",
+    "DUO": "Duo",
+    "3VS3": "3VS3",
+    "VERIFIED": "Verifiziert",
+    "HIGHEST_TROPHIES": "HöchsteTrophäen"
+  },
+
+  "DIALOG": {
+    "ADDED": "Hinzugefügt",
+    "REMOVED": "Entfernt"
+  }
+}

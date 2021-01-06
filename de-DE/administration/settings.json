@@ -1,0 +1,23 @@
+{
+  "DESCRIPTION": "Zeigt dir die Einstellungen vom Server.",
+  "USAGE": "settings",
+  "EXAMPLES": "{{prefix}}settings",
+  "HEADINGS": {
+    "MAPED_EVENT_ROLES": "<@&{{role}}> **-** {{event}} **-** {{wins}} Siege.",
+    "MAPED_DEFAULT_ROLES": "<@&{{role}}> **-** {{event}}.",
+    "MAPED_VERIFIED_ROLES": "<@&{{role}}> **-** {{event}} **-** {{status}}.",
+    "MAPED_HIGHEST_TROPHIES_ROLES": "<@&{{role}}> **-** {{event}} **-** {{trophies}} Trophäen.",
+    "MAPED_CLUBS": "<@&{{role}}> **-** club `#{{tag}}` **-** `{{rank}}`",
+    "TITLE": "Einstellungen:",
+    "PREFIX": "Präfix:",
+    "VERIFICATION_ENABLED": "Verifizierung aktiviert:",
+    "VERIFICATION_CHANNEL": "Kanal:",
+    "VERIFICATION_IMAGE": "Mit Bild:",
+    "VERIFICATION_NAME": "Mit Namensänderung:",
+    "DEFAULT": "Standard Rolle:",
+    "EVENTS": "Ereignisse:",
+    "VERIFICATION": "Verifizierung:",
+    "HIGHESTTROPHIES": "Höchste Trophäen:",
+    "CLUBS": "Club Rollen:"
+  }
+}

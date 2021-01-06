@@ -1,0 +1,20 @@
+{
+  "MISSING_PERMS": "Deine Berechtigungsstufe ist zu niedrig, um diesen Befehl auszuführen. Der Befehl erfordert die Berechtigungsstufe {{requiredLevel}} (`{{requiredTitle}}`) und Du bist Stufe {{userLevel}} (`{{BenutzerTitel}}`).",
+  "MISSING_PERMS_BOT": "Ich benötige die folgende(n) Berechtigung(en), um diesen Command auszuführen: {{permissions}}",
+  "PREFIX": "Mein Präfix ist `{{prefix}}`",
+  "CHANNEL_IGNORED": "Die Befehle wurden im Kanal {{channel}} deaktiviert.",
+  "EVERYONE_MENTION": "Du hast keine Berechtigung everyone oder here zu pingen.",
+  "STATS_FOOTER": "[Invite](https://discordapp.com/oauth2/authorize?client_id=686123976296103945&scope=bot&permissions=2146954495) ● [Support](https://discord.gg/ucScGNU) ● [Vote](https://top.gg/bot/686123976296103945) ● [Docs](https://docs.brawlroles.mahler.link)",
+  "COMMAND_DISABLED": "Dieser Befehl ist zurzeit deaktiviert.",
+  "INVALID_YES_NO": "Du musst \"ja\" oder \"nein\" schreiben.",
+  "INVALID_CHANNEL": "Bitte gib einen gültigen Kanal ein.",
+  "UNKNOWN_COMMAND": "Unbekannter Befehl `{{command}}`. Gib bitte `{{prefix}}help` ein um die Liste aller Befehle zu sehen.",
+  "COMMAND_GUILDONLY": "Dieser Befehl kann nur auf dem Server eingegeben werden. In Direktnachrichten funktioniert er nicht.",
+  "COMMAND_CLIENT_PERMS": "Ich brauche die folgenden Berechtigungen, um diesen Befehl auszuführen: `{{perms}}`.",
+  "COMMAND_USER_PERMS" : "Du hast nicht die benötigten Berechtigungen, um diesen Befehl auszuführen (`{{perms}}`).",
+  "COMMAND_NSFW": "Dieser Befehl kann nur in NSFW Kanälen ausgeführt werden.",
+  "COMMAND_MOD_ONLY": "Dieser Befehl kann nur von meinen Administratoren ausgeführt werden.",
+  "COMMAND_NO_MOD": "Du bist ein Bot-Moderator, hast aber keine Berechtigung, diesen Befehl auf diesem Server zu verwenden. Bitte einen leitenden Mitarbeiter auf meinem Support-Server, dir die Berechtigung für diesen Server zu erteilen.",
+  "COOLDOWN": "Du musst {{seconds}} warten um den Command erneut auszuführen.",
+  "ERROR": "Something went wrong: `{{error}}`"
+}

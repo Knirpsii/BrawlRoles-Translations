@@ -1,0 +1,13 @@
+{
+  "DESCRIPTION": "Fügt dem Befehl `Personal` eine Rolle hinzu oder entfernt sie.",
+  "USAGE": "setstaff <hinzufügen / entfernen> <Rolle>",
+  "EXAMPLES": "{{prefix}}setstaff hinzufügen @Administrator \n{{prefix}}setstaff entfernen @Moderator",
+  "NO_STATUS": "Bitte gib `add` ein, um eine Rolle hinzuzufügen oder `remove`, um eine Rolle zu entfernen.",
+  "NO_ROLE": "Bitte gib eine Rolle an.",
+  "ALREADY_ADDED": "Die Rolle {{role}} ist bereits dem Befehl `staff` hinzugefügt.",
+  "SUCCESS_ADDED": "Erfolgreiches Hinzufügen der Rolle {{role}} zum `staff` Befehl.",
+  "NOT_ADDED": "Die Rolle {{role}} ist dem `staff` Befehl nicht hinzugefügt.",
+  "SUCCESS_REMOVED": "Ich habe die Rolle {{role}} erfolgreich aus dem Staff Befehl entfernt",
+  "NO_NEW_ROLES_TO_ADD": "Es gibt keine neuen Rollen mit diesem Namen, die dem Befehl `staff` hinzugefügt werden können.",
+  "NO_NEW_ROLES_TO_REMOVE": "Es gibt keine Rollen mit diesem Namen mehr, die aus dem `staff` Befehl entfernt werden müssen"
+}

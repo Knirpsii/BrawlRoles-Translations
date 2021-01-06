@@ -1,0 +1,19 @@
+{
+  "DESCRIPTION": "Deletes all messages in a channel in a defined interval. (Minimum time is 5 minutes, maximum time is 24 hours)",
+  "USAGE": "autodelete [set | remove] [channel] {time}",
+  "EXAMPLES": "{{prefix}}autodelete set #global 20m",
+  "NO_STATUS": "Please enter `set` to set a channel or `remove` to remove a channel.",
+  "NO_CHANNEL": "Please define a channel which will be cleared.",
+  "ERR_CHANNEL": "Please define a channel to remove the autodelete.",
+  "NO_TIME": "Please define an interval in which a channel will be cleared.",
+  "INVALIDE_TIME": "The time must be bigger than 5 minutes and smaller than 24 hours.",
+  "TIME_NAN": "The time must be a number or you gave invalid arguments.",
+  "AUTODELETE_CHANNEL": "This channel will be cleared every {{time}}.",
+  "SUCCESSFULL_ENABLED": "Successfully enabled autodelete in {{channel}} with a clear interval of **{{time}}**.",
+  "ALREADY_ENABLED": "In the channel {{channel}} is autodelete already active with an interval of **{{time}}**. Would you like to update the purge interval to **{{newTime}}**? (react with {{emoji}})",
+  "SUCCESSFULLY_UPDATED": "Successfully updated autodelete in {{channel}} to an interval of **{{time}}**.",
+  "UPDATE_CANCELED": "**Update canceled.**",
+  "REMOVED": "Successfully removed {{channel}} from autodelete.",
+  "NOT_ACTIVE": "Autodelete is already disabled in {{channel}}.",
+  "CHANNEL_CLEARED": "<#{{channel}}> has been cleared. Next clear in **{{time}}**."
+}

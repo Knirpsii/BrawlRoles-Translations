@@ -1,0 +1,13 @@
+{
+  "DESCRIPTION": "Adds or removes a role to the `staff` command.",
+  "USAGE": "setstaff <add / remove> <role>",
+  "EXAMPLES": "{{prefix}}setstaff add @Administrator \n{{prefix}}setstaff remove @Moderator",
+  "NO_STATUS": "Please enter `add` to add or `remove` to remove a role.",
+  "NO_ROLE": "Please enter a role.",
+  "ALREADY_ADDED": "The role {{role}} is already added to the `staff` command.",
+  "SUCCESS_ADDED": "Successfully added the role {{role}} to the `staff` command.",
+  "NOT_ADDED": "The role {{role}} isn't added to the `staff` command.",
+  "SUCCESS_REMOVED": "Successfully removed the role {{role}} from the `staff` command.",
+  "NO_NEW_ROLES_TO_ADD": "There are no new roles with this name that can be added to the `staff` command.",
+  "NO_NEW_ROLES_TO_REMOVE": "There are no more roles with this name to remove from the `staff` command"
+}

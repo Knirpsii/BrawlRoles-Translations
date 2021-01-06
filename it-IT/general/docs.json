@@ -1,0 +1,5 @@
+{
+  "DESCRIPTION": "Sends you a link to my docs.",
+  "USAGE": "docs",
+  "EXAMPLES": "{{prefix}}docs"
+}

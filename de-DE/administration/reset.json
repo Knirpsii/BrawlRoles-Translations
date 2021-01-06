@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Setzt alle Einstellungen auf Werkseinstellungen zurück (Prefix, Sprache, Rollen, Verifizierung, etc.)",
+  "USAGE": "reset",
+  "EXAMPLES": "{{prefix}}reset",
+  "PROOF": "Bist du dir sicher, dass du die Servereinstellungen auf Werkseinstellungen zurücksetzen willst?",
+  "SUCCESS_DELETED": "Die Einstellungen wurden erfolgreich auf Werkseinstellungen zurückgesetzt",
+  "CANCELLED": "Zurücksetzen auf Werkseinstellungen abgebrochen."
+}

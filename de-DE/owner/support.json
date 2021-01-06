@@ -1,0 +1,12 @@
+{
+  "DESCRIPTION": "Erteilt dem Bot-Moderator die Erlaubnis, Moderationsbefehle auf anderen Servern auszuführen.",
+  "USAGE": "{{prefix}}support <hinzufügen / entfernen> [benutzer] [Server_ID]",
+  "EXAMPLES": "{{prefix}}support hinzufügen @Knirpsii 646632226284503043",
+  "NO_STATUS": "Bitte erwähne einen gültigen Status. Dieser kann entweder `Hinzufügen` oder `Entfernen` sein.",
+  "NO_USER" : "Bitte gib ein Mitglied an, das du zu den zugelassenen Servern hinzufügen/entfernen möchtest.",
+  "NO_GUILD" : "Bitte gib einen Server an, den du hinzufügen/entfernen möchten.",
+  "NOT_RESOLVED" : "Ich konnte nichts finden.",
+  "SUCCESS" : "Ich habe erfolgreich {{status}} {{user}} Berechtigungen im Server {{guild}} ({{guild_ID}}) gegeben.",
+  "ALREADY_DB" : "Dieser Benutzer ist bereits für diesen Server in der Datenbank gespeichert.",
+  "NO_DB" : "Ich konnte diesen Benutzer für diesen Server in der Datenbank nicht finden."
+}

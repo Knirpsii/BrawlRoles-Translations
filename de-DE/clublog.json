@@ -1,0 +1,37 @@
+{
+  "DESCRIPTION_CHANGE": "Die Clubbeschreibung hat sich geändert.\n\u200b",
+  "OLD_DESCRIPTION": "Vorherige Beschreibung",
+  "NEW_DESCRIPTION": "Neue Beschreibung",
+  "TROPHIES_CHANGE": "Die Club Anforderungen haben sich geändert.\n\u200B",
+  "OLD_TROPHIES": "Vorherige Anforderungen",
+  "NEW_TROPHIES": "Neue Anforderungen",
+  "TYPE_CHANGE": "Club Typ hat sich geändert.\n\u200B",
+  "OLD_TYPE": "Vorheriger Typ",
+  "NEW_TYPE": "Neuer Typ",
+  "ICON_CHANGE": "Club batch hat sich verändert",
+  "OLD_BATCH": "Vorheriger Batch",
+  "NEW_BATCH": "Neuer Batch",
+  "MEMBER_ICON_CHANGE": "{{member}} hat sein Profilbild geändert",
+  "OLD_ICON": "Vorheriges Profilbild",
+  "NEW_ICON": "Neues Profilbild",
+  "MEMBER_NAME_CHANGE": "{{member}} hat sein Name geändert",
+  "OLD_NAME": "Vorheriger Name",
+  "NEW_NAME": "Neuer Name",
+  "MEMBER_LEFT": "**{{role}} hat verlassen ({{totalMembers}})**\n``#{{number}}`` {{league}}``{{trophies}}`` - {{name}}{{discordUser}}",
+  "MEMBER_JOIN": "**Mitglied ist beigetreten ({{totalMembers}})**\n``#{{number}}`` {{league}}``{{trophies}}`` - {{name}}{{discordUser}}",
+  "MEMBER_JOIN_BLACKLIST": "**:warning:Blacklisted:warning:**\n\n Mitglied ist beigetreten ({{totalMembers}})\n``#{{number}}`` {{league}}``{{trophies}}`` - {{name}}{{discordUser}}\n\nGrund: {{reason}}",
+  "ROLE_CHANGE": "**{{status}}:**\n {{oldRole}} <:Arrow_red_right:741759987323371680> **{{newRole}}**\n\u200b\n`#{{rank}}` {{league}} {{trophies}} <:trophyBS:754301260320079942> {{member}}",
+  "CLUB_TYPES": {
+    "OPEN": "Offen",
+    "CLOSED": "Geschlossen",
+    "INVITEONLY": "Nur auf Einladung"
+  },
+  "PROMOTION": "Beförderung",
+  "DEMOTION": "Degradierung",
+  "CLUB_ROLES": {
+    "PRESIDENT": "Präsident",
+    "VICE_PRESIDENT": "Vize-Präsident",
+    "SENIOR": "Ältester",
+    "MEMBER": "Mitglied"
+  }
+}

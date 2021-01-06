@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Prüft alle gespeicherten Rollen und entfernt gelöschte Rollen aus der Datenbank",
+  "USAGE": "checkroles",
+  "EXAMPLES": "{{preifx}}Checkroles",
+  "ERR_VERIFICATION_DISABLED": "Die Verifizierung ist nicht aktiviert. Bitte führe zuerst den Befehl `verification` aus.",
+  "SUCCESS_DISABLED": "Alle Rollen wurden überprüft. \n**geprüfte Rollen:** {{checkedRoles}} \n**entfernte Rollen:** {{removedRoles}} \n\nDie Verifizierung wurde deaktiviert, weil die Verifizierungsrolle gelöscht wurde.",
+  "SUCCESS": "Alle Rollen wurden überprüft. \n**geprüfte Rollen:** {{checkedRoles}} \n**entfernte Rollen:** {{removedRoles}}"
+}

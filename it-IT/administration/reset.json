@@ -1,0 +1,8 @@
+{
+  "DESCRIPTION": "Deletes all the server's settings. (Prefix, language, roles, verification, etc.)",
+  "USAGE": "reset",
+  "EXAMPLES": "{{prefix}}reset",
+  "PROOF": "Are you sure you want to reset your server settings to default?",
+  "SUCCESS_DELETED": "Successfully reset all settings to default.",
+  "CANCELLED": "Cancelled reset request."
+}

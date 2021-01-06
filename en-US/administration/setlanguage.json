@@ -1,0 +1,9 @@
+{
+  "DESCRIPTION": "Changes the language of the server.",
+  "USAGE": "setlanguage <language>",
+  "EXAMPLES": "{{prefix}}setlanguage german",
+  "MISSING": "Please enter a language. Available languages are `english` and `german`.",
+  "ALREADY_SET": "This language is already set.",
+  "SUCCESS": "Language successfully set to `{{language}}`.",
+  "INVALID_LANGUAGE": "Please enter a valid language. Available languages are `english` and `german`."
+}

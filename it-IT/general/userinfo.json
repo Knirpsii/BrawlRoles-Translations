@@ -1,0 +1,20 @@
+{
+    "DESCRIPTION" : "Shows information about a user",
+    "USAGE": "userinfo {user}",
+    "EXAMPLES": "{{prefix}}userinfo @Kniprsii#0001",
+    "NO_PRESENCE": "No presence.",
+    "INFO_FOR": "Userinfo for {{user}}",
+    "USERNAME": "Username",
+    "DISCRIMINATOR": "Discriminator",
+    "ID": "User ID",
+    "JOINED_S": "Joined server",
+    "JOINED_D": "Joined discord",
+    "STATUS": "Client status",
+    "BOT": "Bot user",
+    "GAME": "Game/Status",
+    "ROLE": "Highest role",
+    "MANAGE": "Manageable by {{user}}",
+    "BAN": "Bannable by {{user}}",
+    "NOT_SAVED" : "Not saved",
+    "BSUSER" : "Brawl Stars player tag"
+}
