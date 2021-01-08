@@ -19,7 +19,7 @@
   "NEW_NAME": "New name",
   "MEMBER_LEFT": "**{{role}} left ({{totalMembers}})**\n``#{{number}}`` {{league}}``{{trophies}}`` - {{name}}{{discordUser}}",
   "MEMBER_JOIN": "**Member joined ({{totalMembers}})**\n``#{{number}}`` {{league}}``{{trophies}}`` - {{name}}{{discordUser}}",
-  "MEMBER_JOIN_BLACKLIST": "**:warning:Blacklisted:warning:**\n\n member joined ({{totalMembers}})\n``#{{number}}`` {{league}}``{{trophies}}`` - {{name}}{{discordUser}}\n\nReason: {{reason}}",
+  "MEMBER_JOIN_BLACKLIST": ":warning:Blacklisted:warning:\n\n **Member joined ({{totalMembers}})**\n``#{{number}}`` {{league}}``{{trophies}}`` - {{name}}{{discordUser}}\n\nReason: {{reason}}",
   "ROLE_CHANGE": "**{{status}}:**\n {{oldRole}} <:Arrow_red_right:741759987323371680> **{{newRole}}**\n\u200b\n`#{{rank}}` {{league}} {{trophies}} <:trophyBS:754301260320079942> {{member}}",
   "CLUB_TYPES": {
     "OPEN": "Open",
@@ -30,7 +30,7 @@
   "DEMOTION": "Demotion",
   "CLUB_ROLES": {
     "PRESIDENT": "President",
-    "VICE_PRESIDENT": "Vice-President",
+    "VICEPRESIDENT": "Vice-President",
     "SENIOR": "Senior",
     "MEMBER": "Member"
   }
